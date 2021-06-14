@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:OrderedFolder">
+    <jcr:content
+        jcr:primaryType="nt:unstructured"
+        jcr:title="photos"/>
+    <logo3.jfif/>
+    <logo2.jfif/>
+    <logo.png/>
+    <device-pile-in.png/>
+    <netflix-background-9.jpg/>
+    <mobile-0819.jpg/>
+    <new.png/>
+    <th_x0020__x0028_2_x0029_.jfif/>
+    <th_x0020__x0028_3_x0029_.jfif/>
+    <tv_x0020__x0028_1_x0029_.png/>
+    <th.jfif/>
+    <tv.png/>
+</jcr:root>
