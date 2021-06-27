@@ -36,5 +36,4 @@ public class NetflixIntro {
 	public String getFileReference() {
 		return fileReference;
 	}
-
 }
